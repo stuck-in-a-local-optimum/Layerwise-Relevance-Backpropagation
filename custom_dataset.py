@@ -27,7 +27,6 @@ class Dataset_loader(Dataset):
 
 
 
-
         df = df[[dataset_parameter['sentence_column'], dataset_parameter['label_column']]]
         df[dataset_parameter['sentence_column']] = df[dataset_parameter['sentence_column']].apply(lambda x: preprocess_text(x))
 
