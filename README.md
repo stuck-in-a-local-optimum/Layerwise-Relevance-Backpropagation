@@ -49,7 +49,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#Implementation">Implementation</a></li>
+    <li><a href="#Implementation">Implementation Summary</a></li>
     <li><a href="#Results">Results</a></li>
     <li><a href="#Applications">Applications</a></li>
     <li><a href="#contact">Contact</a></li>
