@@ -75,7 +75,7 @@ In general, LRP's propagation technique is subject to a conservation property, w
 
 Illustration of the LRP procedure:
 
-<img width="650" alt="lrp-basic-rule" src="https://github.com/stuck-in-a-local-optimum/Layerwise-Relevance-Backpropagation/blob/master/images/lrp_illustration.png">
+<img width="650" alt="lrp-basic-rule" src="https://github.com/stuck-in-a-local-optimum/Layerwise-Relevance-Backpropagation/images/lrp_illustration.png">
 
 
 Let j and k represent neurons in two successive layers, say layer ‘p’ and ‘q’ in the above neural network. The rule  to back- propagate relevance scores R_k from layer ‘q’ to neurons ‘j’ in the previous layer ‘q’  is the following:
