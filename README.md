@@ -157,16 +157,13 @@ Let’s say our network predicts a cancer diagnosis based on a mammogram (a brea
 
 XML methods are especially useful in safety-critical domains where practitioners must know exactly what the network is paying attention to.  Other use-cases include network (mis)behavior diagnostics, scientific discovery, and network architectural improvement.
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ajeet-yadav-a507971a9/)
-[Twitter](https://twitter.com/weightsNbiases)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[Twitter](https://twitter.com/weightsNbiases)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
