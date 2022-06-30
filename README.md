@@ -49,7 +49,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#Implementation">Implementation Summary</a></li>
+    <li><a href="#Implementation Summary">Implementation Summary</a></li>
     <li><a href="#Results">Results</a></li>
     <li><a href="#Applications">Applications</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -123,7 +123,7 @@ __3) Gamma Rule (LRP-γ):__ Another enhancement which the author have introduced
 * [HuggingFace](https://huggingface.co/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Implementation
+## Implementation Summary
 We first built a hate-speech detection model trained on Indian languages using XLM-Roberta from Hugging Face and used it to explain its prediction using the LRP described above.
 
 The structure of LRP rules enables us to implement them in a simple and efficient manner and the implementation have  following major 4 steps:
