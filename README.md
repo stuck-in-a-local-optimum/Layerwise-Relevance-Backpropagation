@@ -26,7 +26,7 @@
   <h3 align="center">Layerwise Relevance Backpropagation</h3>
 
   <p align="center">
-    A research project to implement Relevance Back Propagation to explain the predictions <br/> of a hate speech detection model built on fine tuning XLM-roberta from Hugging-Face!
+    A research project to implement Relevance Back Propagation to explain the predictions <br/> of a hate speech detection model <br/>built on fine tuning XLM-roberta from Hugging-Face!
     
   _Disclaimer:_ The result section of the readme contains our results on text examples that may be considered profane, vulgar, or offensive.
 
