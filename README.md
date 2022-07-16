@@ -20,7 +20,7 @@
 
 
 
-<font size=10> This is my text number1</font>
+<font size=50> This is my text number1</font>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
